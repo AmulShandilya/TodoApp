@@ -25,7 +25,7 @@ Requirements
 
 Installation
 
-1. Clone the repository: git clone https://AmulShandilya/github.com/todo-app.git
+1. Clone the repository: git clone (https://github.com/AmulShandilya/TodoApp)
 
 2. Open the index.html file in a web browser.
 
